@@ -1,0 +1,12 @@
+rootProject.name = 'programming_technologies_samples'
+
+include 'command'
+include 'creationalPattern'
+include 'decorator'
+include 'delegationEventModel'
+include 'factory'
+include 'mvc'
+include 'mvclite'
+include 'strategy'
+include 'state'
+
